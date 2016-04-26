@@ -1,0 +1,19 @@
+{
+  "webapp/view/App.view.xml": "1460646157000",
+  "webapp/view/HelloPanel.view.xml": "1460640338000",
+  "webapp/view/HelloDialog.fragment.xml": "1460640397000",
+  "webapp/view/InvoiceList.view.xml": "1460658037000",
+  "webapp/controller/HelloPanel.controller.js": "1460641808000",
+  "webapp/controller/App.controller.js": "1460642095000",
+  "webapp/controller/HelloDialog.js": "1460640637000",
+  "webapp/controller/InvoiceList.controller.js": "1460657978000",
+  "webapp/i18n/i18n.properties": "1460658176000",
+  "webapp/model/models.js": "1460464919000",
+  "webapp/Component.js": "1460640547000",
+  "webapp/css/style.css": "1460572602000",
+  "webapp/manifest.json": "1460644971000",
+  "webapp/index.html": "1460571673000",
+  "webapp/preview_hidden.html": "1460571693000",
+  "webapp/Invoices.json": "1460646982000",
+  "webapp/model/formatter.js": "1460658399000"
+}
